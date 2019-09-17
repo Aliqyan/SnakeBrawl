@@ -10,7 +10,7 @@ Press the red button to start the game. Use the joysticks to control your snake.
 <img src="https://github.com/Aliqyan/SnakeBrawl/blob/master/Assets/SnakeGif.gif" width="60%" height="60%">
 
 ### Arduino and Bluetooth Joysticks
-<img src="https://github.com/Aliqyan/SnakeBrawl/blob/master/Assets/Arduino_BLE_Controller.jpg.jpg" width="60%" height="60%">
+<img src="https://github.com/Aliqyan/SnakeBrawl/blob/master/Assets/Arduino_BLE_Controller.jpg" width="60%" height="60%">
 
 ## Description of Files
 
