@@ -19,12 +19,7 @@ In this README you will find a brief description of the files contained in our r
 The most important folders would be **'Snake-Tutorial'**, our completed app. Inside of the 'Snake-Tutorial' folder you will find **'GameScene.swift'** and **'GameManager.swift'**, these contain the large majority of the code we wrote for the game. In the folder **'Arduino_Prototype'** under **'JoyStickBLE'**, you will find the code on our arduino.
 
 1. 'Arduino_Prototype' contains the program that is running on our arduino. The most up to date version can be found under 'JoystickBLE'. The other programs were simply our original tests on writing information via bluetooth.
-
-2. 'IOS_APP_Prototype' is the prototype that we demo'd. It simply demonstrated that we were able to read joystick movement and display when the arduino was conncted to the app.
-
-3. 'ReactAppHiro' was the attempt at making the app using React Native at the very beginning of our project. This did not get very far if anywhere, but it does show the things we tried to do, so we have kept it here.
-
-4. 'Snake-Tutorial' is our final Swift app, it contains everything up-to-date.
+2. 'Snake-Brawl' is our final Swift app, it contains everything up-to-date.
 
 ## The Full Detailing of Our Development Process
 
